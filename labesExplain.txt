@@ -1,0 +1,8 @@
+Text segment:
+  shows the instructions of the program.
+data segment:
+  it contain the data that the program uses like strings and variables.
+register panel :
+  it dispalys the values stored in cpu registers.
+console:
+  it shows all the input and output of the program like printed text.

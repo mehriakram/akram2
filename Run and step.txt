@@ -1,0 +1,2 @@
+Run executes the whole program from start to end.
+step executes one instruction at a time
